@@ -1,0 +1,10 @@
+myset = set()
+print(myset)
+myset.add(1)
+print(myset)
+myset.add('number')
+print(myset)
+mylist = [1,2,1,1,2,3,4,5,5,4,4,3,3,6,7,]
+myset = set(mylist)
+print(mylist)
+print(myset)
